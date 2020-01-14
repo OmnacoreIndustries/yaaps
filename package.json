@@ -1,0 +1,19 @@
+{
+  "name": "yaaps",
+  "version": "1.0.0",
+  "description": "A new app that is designed to split expenses and transfer money between friends and family",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmnacoreIndustries/yaaps.git"
+  },
+  "author": "Omar Jandali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmnacoreIndustries/yaaps/issues"
+  },
+  "homepage": "https://github.com/OmnacoreIndustries/yaaps#readme"
+}
